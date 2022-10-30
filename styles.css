@@ -95,7 +95,6 @@ body {
 .container__aviso {
     font-size: 15px;
     color: var(--cor-de-fonte);
-    
     text-align: center;
 
 
@@ -109,7 +108,7 @@ body {
 }
 
 .container__imagem {
-    width: 600px;
+    width: 500px;
     margin: auto;
 }
 
