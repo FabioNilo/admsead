@@ -10,6 +10,14 @@
 
 }
 
+.nav-link {
+    color: white;
+    
+}
+ .nav-item{
+    list-style: none;
+}
+
 body {
     background-color: whitesmoke;
     color: var(--branco-principal);
